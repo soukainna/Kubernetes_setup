@@ -3,7 +3,7 @@
 ## Lancement du Pod
 Le Pod peut être créé avec la commande suivante:
 
-kubectl apply -f whoami.yaml
+kubectl create -f whoami.yaml
 
 
 
