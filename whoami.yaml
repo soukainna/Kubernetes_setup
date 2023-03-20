@@ -6,21 +6,3 @@ spec:
  containers:
  - name: whoami
    image: containous/whoami
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
